@@ -1,2 +1,1 @@
-// Import stylesheets
-import './style.css';
+import './main.css';
